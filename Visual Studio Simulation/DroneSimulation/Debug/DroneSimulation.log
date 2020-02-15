@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(881): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(884): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(886): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(887): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(888): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(984): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(1542): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2328): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2336): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2422): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2439): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2622): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2639): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2654): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(2869): warning C4018: '<': signed/unsigned mismatch
+c:\users\houssman\source\repos\dronesimulation\dronesimulation\myform.h(3188): warning C4018: '<': signed/unsigned mismatch
+  CoutCalcul.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DroneSimulation.vcxproj -> C:\Users\Houssman\source\repos\DroneSimulation\Debug\DroneSimulation.exe

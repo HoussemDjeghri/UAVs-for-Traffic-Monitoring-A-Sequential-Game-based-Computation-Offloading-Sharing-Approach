@@ -1,0 +1,57 @@
+  DroneSimulation.MyForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly DroneSimulation, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class DroneSimulation.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 E_PC5 : Public
+    Int32 E_LTEA : Public
+    Int32 Debit_PC5 : Public
+    Int32 Debit_LTEA : Public
+    Double C_LTEA IsLong : Public
+    Double C_Calcul_SE IsLong : Public
+    Double C_Calcul_VV IsLong : Public
+    Int32 QoL : Public
+    Double α IsLong : Public
+    Double β IsLong : Public
+    Double δ IsLong : Public
+    Double γ IsLong : Public
+    Double λ IsLong : Public
+    Double QoL_DP_DS IsLong : Public
+    Double QoL_DP_SE IsLong : Public
+    Double QoL_DP_VP IsLong : Public
+    Double QoL_VP_SE IsLong : Public
+    Double QoL_VP_VV IsLong : Public
+    Double cycle_cpu_var IsLong : Public
+    Double max_cycle_cpu_var IsLong : Public
+    Double taille_resultat_var IsLong : Public
+    Double max_taille_resultat_var IsLong : Public
+    Double tailleDonnee_var IsLong : Public
+    Double maxTaille_var IsLong : Public
+    Double PD_cpu_frequency IsLong : Public
+    Double NV_cpu_frequency IsLong : Public
+    Double AV_cpu_frequency IsLong : Public
+    Double ES_cpu_frequency IsLong : Public
+    Double maxT IsLong : Public
+    Double minT IsLong : Public
+    Double maxE IsLong : Public
+    Double minE IsLong : Public
+    Double maxCE IsLong : Public
+    Double minCE IsLong : Public
+    Double maxCC IsLong : Public
+    Double minCC IsLong : Public
+    Boolean calculer_limites : Public
